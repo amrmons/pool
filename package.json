@@ -34,7 +34,7 @@
         "stratum-pool": "https://github.com/amrmons/stratum-pool.git",
         "dateformat": "*",
         "node-json-minify": "*",
-        "redis": "*",
+        "redis": "2.6.4",
         "mysql": "*",
         "async": "*",
         "express": "*",

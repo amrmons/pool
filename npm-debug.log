@@ -1,0 +1,471 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/root/.nvm/v0.10.38/bin/node',
+1 verbose cli   '/root/.nvm/v0.10.38/bin/npm',
+1 verbose cli   'update' ]
+2 info using npm@1.4.28
+3 info using node@v0.10.38
+4 verbose request where is /stratum-pool
+5 verbose request registry https://registry.npmjs.org/
+6 verbose request id b6eeba7f0fe8afd8
+7 verbose url raw /stratum-pool
+8 verbose url resolving [ 'https://registry.npmjs.org/', './stratum-pool' ]
+9 verbose url resolved https://registry.npmjs.org/stratum-pool
+10 verbose request where is https://registry.npmjs.org/stratum-pool
+11 info trying registry request attempt 1 at 12:00:51
+12 verbose etag W/"db2cf288e890eeb5eeaacb5cb714d369"
+13 http GET https://registry.npmjs.org/stratum-pool
+14 verbose request where is /dateformat
+15 verbose request registry https://registry.npmjs.org/
+16 verbose url raw /dateformat
+17 verbose url resolving [ 'https://registry.npmjs.org/', './dateformat' ]
+18 verbose url resolved https://registry.npmjs.org/dateformat
+19 verbose request where is https://registry.npmjs.org/dateformat
+20 info trying registry request attempt 1 at 12:00:51
+21 verbose etag W/"6cfb47bc289f45811e5a5288ee6b2379"
+22 http GET https://registry.npmjs.org/dateformat
+23 verbose request where is /node-json-minify
+24 verbose request registry https://registry.npmjs.org/
+25 verbose url raw /node-json-minify
+26 verbose url resolving [ 'https://registry.npmjs.org/', './node-json-minify' ]
+27 verbose url resolved https://registry.npmjs.org/node-json-minify
+28 verbose request where is https://registry.npmjs.org/node-json-minify
+29 info trying registry request attempt 1 at 12:00:51
+30 verbose etag W/"794a4a67712f569216f682c9683b8473"
+31 http GET https://registry.npmjs.org/node-json-minify
+32 verbose request where is /mysql
+33 verbose request registry https://registry.npmjs.org/
+34 verbose url raw /mysql
+35 verbose url resolving [ 'https://registry.npmjs.org/', './mysql' ]
+36 verbose url resolved https://registry.npmjs.org/mysql
+37 verbose request where is https://registry.npmjs.org/mysql
+38 info trying registry request attempt 1 at 12:00:51
+39 verbose etag W/"2c970d4756fd459ec644ba6dc59c2779"
+40 http GET https://registry.npmjs.org/mysql
+41 verbose request where is /async
+42 verbose request registry https://registry.npmjs.org/
+43 verbose url raw /async
+44 verbose url resolving [ 'https://registry.npmjs.org/', './async' ]
+45 verbose url resolved https://registry.npmjs.org/async
+46 verbose request where is https://registry.npmjs.org/async
+47 info trying registry request attempt 1 at 12:00:51
+48 verbose etag W/"6c7399d87a5d64bc3253e25c31b51d4b"
+49 http GET https://registry.npmjs.org/async
+50 verbose request where is /express
+51 verbose request registry https://registry.npmjs.org/
+52 verbose url raw /express
+53 verbose url resolving [ 'https://registry.npmjs.org/', './express' ]
+54 verbose url resolved https://registry.npmjs.org/express
+55 verbose request where is https://registry.npmjs.org/express
+56 info trying registry request attempt 1 at 12:00:51
+57 verbose etag W/"066ffc2e6bb8d6c79cc0150516ecb3fb"
+58 http GET https://registry.npmjs.org/express
+59 verbose request where is /body-parser
+60 verbose request registry https://registry.npmjs.org/
+61 verbose url raw /body-parser
+62 verbose url resolving [ 'https://registry.npmjs.org/', './body-parser' ]
+63 verbose url resolved https://registry.npmjs.org/body-parser
+64 verbose request where is https://registry.npmjs.org/body-parser
+65 info trying registry request attempt 1 at 12:00:51
+66 verbose etag W/"499d638df5fc4f08de28b31aec9f9ab2"
+67 http GET https://registry.npmjs.org/body-parser
+68 verbose request where is /compression
+69 verbose request registry https://registry.npmjs.org/
+70 verbose url raw /compression
+71 verbose url resolving [ 'https://registry.npmjs.org/', './compression' ]
+72 verbose url resolved https://registry.npmjs.org/compression
+73 verbose request where is https://registry.npmjs.org/compression
+74 info trying registry request attempt 1 at 12:00:51
+75 verbose etag W/"9cd53c86e9364f9d84a8e26615469921"
+76 http GET https://registry.npmjs.org/compression
+77 verbose request where is /dot
+78 verbose request registry https://registry.npmjs.org/
+79 verbose url raw /dot
+80 verbose url resolving [ 'https://registry.npmjs.org/', './dot' ]
+81 verbose url resolved https://registry.npmjs.org/dot
+82 verbose request where is https://registry.npmjs.org/dot
+83 info trying registry request attempt 1 at 12:00:51
+84 verbose etag W/"ca50919f4100dc9a5eb12b853eb61942"
+85 http GET https://registry.npmjs.org/dot
+86 verbose request where is /colors
+87 verbose request registry https://registry.npmjs.org/
+88 verbose url raw /colors
+89 verbose url resolving [ 'https://registry.npmjs.org/', './colors' ]
+90 verbose url resolved https://registry.npmjs.org/colors
+91 verbose request where is https://registry.npmjs.org/colors
+92 info trying registry request attempt 1 at 12:00:51
+93 verbose etag W/"c7b3f4da9fc5592ba6c9a428faa2fd4f"
+94 http GET https://registry.npmjs.org/colors
+95 verbose request where is /node-watch
+96 verbose request registry https://registry.npmjs.org/
+97 verbose url raw /node-watch
+98 verbose url resolving [ 'https://registry.npmjs.org/', './node-watch' ]
+99 verbose url resolved https://registry.npmjs.org/node-watch
+100 verbose request where is https://registry.npmjs.org/node-watch
+101 info trying registry request attempt 1 at 12:00:51
+102 verbose etag W/"5ec4e8c29d4be20204eb9a753697f2f2"
+103 http GET https://registry.npmjs.org/node-watch
+104 verbose request where is /request
+105 verbose request registry https://registry.npmjs.org/
+106 verbose url raw /request
+107 verbose url resolving [ 'https://registry.npmjs.org/', './request' ]
+108 verbose url resolved https://registry.npmjs.org/request
+109 verbose request where is https://registry.npmjs.org/request
+110 info trying registry request attempt 1 at 12:00:51
+111 verbose etag W/"c0c45a07f71b45b8ae5f486e72d79af6"
+112 http GET https://registry.npmjs.org/request
+113 verbose request where is /nonce
+114 verbose request registry https://registry.npmjs.org/
+115 verbose url raw /nonce
+116 verbose url resolving [ 'https://registry.npmjs.org/', './nonce' ]
+117 verbose url resolved https://registry.npmjs.org/nonce
+118 verbose request where is https://registry.npmjs.org/nonce
+119 info trying registry request attempt 1 at 12:00:51
+120 verbose etag W/"693c13e87a25bd82a4c927d6ebeedc6e"
+121 http GET https://registry.npmjs.org/nonce
+122 verbose request where is /bignum
+123 verbose request registry https://registry.npmjs.org/
+124 verbose url raw /bignum
+125 verbose url resolving [ 'https://registry.npmjs.org/', './bignum' ]
+126 verbose url resolved https://registry.npmjs.org/bignum
+127 verbose request where is https://registry.npmjs.org/bignum
+128 info trying registry request attempt 1 at 12:00:51
+129 verbose etag W/"faa19d87edd13ac7bc1fec902cb6805e"
+130 http GET https://registry.npmjs.org/bignum
+131 verbose request where is /redis
+132 verbose request registry https://registry.npmjs.org/
+133 verbose url raw /redis
+134 verbose url resolving [ 'https://registry.npmjs.org/', './redis' ]
+135 verbose url resolved https://registry.npmjs.org/redis
+136 verbose request where is https://registry.npmjs.org/redis
+137 info trying registry request attempt 1 at 12:00:51
+138 verbose etag W/"78299680990cc12f4100306a2a76d469"
+139 http GET https://registry.npmjs.org/redis
+140 verbose request where is /extend
+141 verbose request registry https://registry.npmjs.org/
+142 verbose url raw /extend
+143 verbose url resolving [ 'https://registry.npmjs.org/', './extend' ]
+144 verbose url resolved https://registry.npmjs.org/extend
+145 verbose request where is https://registry.npmjs.org/extend
+146 info trying registry request attempt 1 at 12:00:51
+147 verbose etag W/"6dd83c5320f4a7d5404c451b6ee310b3"
+148 http GET https://registry.npmjs.org/extend
+149 http 304 https://registry.npmjs.org/dateformat
+150 silly registry.get cb [ 304,
+150 silly registry.get   { date: 'Sat, 03 Aug 2024 10:00:51 GMT',
+150 silly registry.get     connection: 'keep-alive',
+150 silly registry.get     'cf-ray': '8ad5768928d18fdd-FRA',
+150 silly registry.get     'cf-cache-status': 'HIT',
+150 silly registry.get     'access-control-allow-origin': '*',
+150 silly registry.get     age: '284',
+150 silly registry.get     'cache-control': 'public, max-age=300',
+150 silly registry.get     etag: '"6cfb47bc289f45811e5a5288ee6b2379"',
+150 silly registry.get     'last-modified': 'Wed, 12 Jul 2023 19:08:26 GMT',
+150 silly registry.get     vary: 'Accept-Encoding',
+150 silly registry.get     server: 'cloudflare' } ]
+151 verbose etag https://registry.npmjs.org/dateformat from cache
+152 http 304 https://registry.npmjs.org/express
+153 silly registry.get cb [ 304,
+153 silly registry.get   { date: 'Sat, 03 Aug 2024 10:00:51 GMT',
+153 silly registry.get     connection: 'keep-alive',
+153 silly registry.get     'cf-ray': '8ad5768958fd8fdd-FRA',
+153 silly registry.get     'cf-cache-status': 'HIT',
+153 silly registry.get     'access-control-allow-origin': '*',
+153 silly registry.get     age: '86',
+153 silly registry.get     'cache-control': 'public, max-age=300',
+153 silly registry.get     etag: '"066ffc2e6bb8d6c79cc0150516ecb3fb"',
+153 silly registry.get     'last-modified': 'Mon, 22 Jul 2024 21:35:24 GMT',
+153 silly registry.get     vary: 'Accept-Encoding',
+153 silly registry.get     server: 'cloudflare' } ]
+154 verbose etag https://registry.npmjs.org/express from cache
+155 http 304 https://registry.npmjs.org/async
+156 silly registry.get cb [ 304,
+156 silly registry.get   { date: 'Sat, 03 Aug 2024 10:00:51 GMT',
+156 silly registry.get     connection: 'keep-alive',
+156 silly registry.get     'cf-ray': '8ad576892832697b-FRA',
+156 silly registry.get     'cf-cache-status': 'HIT',
+156 silly registry.get     'access-control-allow-origin': '*',
+156 silly registry.get     age: '41',
+156 silly registry.get     'cache-control': 'public, max-age=300',
+156 silly registry.get     etag: '"6c7399d87a5d64bc3253e25c31b51d4b"',
+156 silly registry.get     'last-modified': 'Thu, 30 Nov 2023 14:10:10 GMT',
+156 silly registry.get     vary: 'Accept-Encoding',
+156 silly registry.get     server: 'cloudflare' } ]
+157 verbose etag https://registry.npmjs.org/async from cache
+158 http 304 https://registry.npmjs.org/stratum-pool
+159 silly registry.get cb [ 304,
+159 silly registry.get   { date: 'Sat, 03 Aug 2024 10:00:51 GMT',
+159 silly registry.get     connection: 'keep-alive',
+159 silly registry.get     'cf-ray': '8ad57689290739e0-FRA',
+159 silly registry.get     'cf-cache-status': 'HIT',
+159 silly registry.get     'access-control-allow-origin': '*',
+159 silly registry.get     age: '38',
+159 silly registry.get     'cache-control': 'public, max-age=300',
+159 silly registry.get     etag: '"db2cf288e890eeb5eeaacb5cb714d369"',
+159 silly registry.get     'last-modified': 'Wed, 13 Jul 2022 15:50:04 GMT',
+159 silly registry.get     vary: 'Accept-Encoding',
+159 silly registry.get     server: 'cloudflare' } ]
+160 verbose etag https://registry.npmjs.org/stratum-pool from cache
+161 http 304 https://registry.npmjs.org/body-parser
+162 silly registry.get cb [ 304,
+162 silly registry.get   { date: 'Sat, 03 Aug 2024 10:00:51 GMT',
+162 silly registry.get     connection: 'keep-alive',
+162 silly registry.get     'cf-ray': '8ad57689a9588fdd-FRA',
+162 silly registry.get     'cf-cache-status': 'HIT',
+162 silly registry.get     'access-control-allow-origin': '*',
+162 silly registry.get     age: '222',
+162 silly registry.get     'cache-control': 'public, max-age=300',
+162 silly registry.get     etag: '"499d638df5fc4f08de28b31aec9f9ab2"',
+162 silly registry.get     'last-modified': 'Mon, 15 Jul 2024 02:59:57 GMT',
+162 silly registry.get     vary: 'Accept-Encoding',
+162 silly registry.get     server: 'cloudflare' } ]
+163 verbose etag https://registry.npmjs.org/body-parser from cache
+164 http 304 https://registry.npmjs.org/colors
+165 silly registry.get cb [ 304,
+165 silly registry.get   { date: 'Sat, 03 Aug 2024 10:00:51 GMT',
+165 silly registry.get     connection: 'keep-alive',
+165 silly registry.get     'cf-ray': '8ad57689d98a8fdd-FRA',
+165 silly registry.get     'cf-cache-status': 'HIT',
+165 silly registry.get     'access-control-allow-origin': '*',
+165 silly registry.get     age: '283',
+165 silly registry.get     'cache-control': 'public, max-age=300',
+165 silly registry.get     etag: '"c7b3f4da9fc5592ba6c9a428faa2fd4f"',
+165 silly registry.get     'last-modified': 'Tue, 07 Nov 2023 05:00:43 GMT',
+165 silly registry.get     vary: 'Accept-Encoding',
+165 silly registry.get     server: 'cloudflare' } ]
+166 verbose etag https://registry.npmjs.org/colors from cache
+167 http 304 https://registry.npmjs.org/dot
+168 silly registry.get cb [ 304,
+168 silly registry.get   { date: 'Sat, 03 Aug 2024 10:00:51 GMT',
+168 silly registry.get     connection: 'keep-alive',
+168 silly registry.get     'cf-ray': '8ad57689da3039e0-FRA',
+168 silly registry.get     'cf-cache-status': 'HIT',
+168 silly registry.get     'access-control-allow-origin': '*',
+168 silly registry.get     age: '38',
+168 silly registry.get     'cache-control': 'public, max-age=300',
+168 silly registry.get     etag: '"ca50919f4100dc9a5eb12b853eb61942"',
+168 silly registry.get     'last-modified': 'Thu, 30 May 2024 04:47:45 GMT',
+168 silly registry.get     vary: 'Accept-Encoding',
+168 silly registry.get     server: 'cloudflare' } ]
+169 verbose etag https://registry.npmjs.org/dot from cache
+170 http 304 https://registry.npmjs.org/compression
+171 silly registry.get cb [ 304,
+171 silly registry.get   { date: 'Sat, 03 Aug 2024 10:00:51 GMT',
+171 silly registry.get     connection: 'keep-alive',
+171 silly registry.get     'cf-ray': '8ad57689d8e0697b-FRA',
+171 silly registry.get     'cf-cache-status': 'HIT',
+171 silly registry.get     'access-control-allow-origin': '*',
+171 silly registry.get     age: '182',
+171 silly registry.get     'cache-control': 'public, max-age=300',
+171 silly registry.get     etag: '"9cd53c86e9364f9d84a8e26615469921"',
+171 silly registry.get     'last-modified': 'Thu, 30 May 2024 18:13:25 GMT',
+171 silly registry.get     vary: 'Accept-Encoding',
+171 silly registry.get     server: 'cloudflare' } ]
+172 verbose etag https://registry.npmjs.org/compression from cache
+173 verbose cache add [ 'stratum-pool',
+173 verbose cache add   'https://github.com/amrmons/stratum-pool.git' ]
+174 verbose cache add name="stratum-pool" spec="https://github.com/amrmons/stratum-pool.git" args=["stratum-pool","https://github.com/amrmons/stratum-pool.git"]
+175 verbose parsed url { protocol: 'https:',
+175 verbose parsed url   slashes: true,
+175 verbose parsed url   auth: null,
+175 verbose parsed url   host: 'github.com',
+175 verbose parsed url   port: null,
+175 verbose parsed url   hostname: 'github.com',
+175 verbose parsed url   hash: null,
+175 verbose parsed url   search: null,
+175 verbose parsed url   query: null,
+175 verbose parsed url   pathname: '/amrmons/stratum-pool.git',
+175 verbose parsed url   path: '/amrmons/stratum-pool.git',
+175 verbose parsed url   href: 'https://github.com/amrmons/stratum-pool.git' }
+176 http 304 https://registry.npmjs.org/mysql
+177 silly registry.get cb [ 304,
+177 silly registry.get   { date: 'Sat, 03 Aug 2024 10:00:51 GMT',
+177 silly registry.get     connection: 'keep-alive',
+177 silly registry.get     'cf-ray': '8ad576892eb62c37-FRA',
+177 silly registry.get     'cf-cache-status': 'REVALIDATED',
+177 silly registry.get     'access-control-allow-origin': '*',
+177 silly registry.get     'cache-control': 'public, max-age=300',
+177 silly registry.get     etag: '"2c970d4756fd459ec644ba6dc59c2779"',
+177 silly registry.get     'last-modified': 'Mon, 06 May 2024 21:22:28 GMT',
+177 silly registry.get     vary: 'Accept-Encoding',
+177 silly registry.get     server: 'cloudflare' } ]
+178 verbose etag https://registry.npmjs.org/mysql from cache
+179 http 304 https://registry.npmjs.org/node-watch
+180 silly registry.get cb [ 304,
+180 silly registry.get   { date: 'Sat, 03 Aug 2024 10:00:51 GMT',
+180 silly registry.get     connection: 'keep-alive',
+180 silly registry.get     'cf-ray': '8ad5768a5a0b8fdd-FRA',
+180 silly registry.get     'cf-cache-status': 'HIT',
+180 silly registry.get     'access-control-allow-origin': '*',
+180 silly registry.get     age: '85',
+180 silly registry.get     'cache-control': 'public, max-age=300',
+180 silly registry.get     etag: '"5ec4e8c29d4be20204eb9a753697f2f2"',
+180 silly registry.get     'last-modified': 'Tue, 01 Aug 2023 09:57:52 GMT',
+180 silly registry.get     vary: 'Accept-Encoding',
+180 silly registry.get     server: 'cloudflare' } ]
+181 verbose etag https://registry.npmjs.org/node-watch from cache
+182 http 304 https://registry.npmjs.org/request
+183 silly registry.get cb [ 304,
+183 silly registry.get   { date: 'Sat, 03 Aug 2024 10:00:51 GMT',
+183 silly registry.get     connection: 'keep-alive',
+183 silly registry.get     'cf-ray': '8ad5768a6af139e0-FRA',
+183 silly registry.get     'cf-cache-status': 'HIT',
+183 silly registry.get     'access-control-allow-origin': '*',
+183 silly registry.get     age: '206',
+183 silly registry.get     'cache-control': 'public, max-age=300',
+183 silly registry.get     etag: '"c0c45a07f71b45b8ae5f486e72d79af6"',
+183 silly registry.get     'last-modified': 'Mon, 06 May 2024 13:38:45 GMT',
+183 silly registry.get     vary: 'Accept-Encoding',
+183 silly registry.get     server: 'cloudflare' } ]
+184 verbose etag https://registry.npmjs.org/request from cache
+185 silly lockFile 38c87f13-hub-com-amrmons-stratum-pool-git https://github.com/amrmons/stratum-pool.git
+186 verbose lock https://github.com/amrmons/stratum-pool.git /root/.npm/38c87f13-hub-com-amrmons-stratum-pool-git.lock
+187 verbose addRemoteTarball [ 'https://github.com/amrmons/stratum-pool.git', null ]
+188 info retry fetch attempt 1 at 12:00:51
+189 verbose fetch to= /tmp/npm-183254-7cKOqYki/github.com/amrmons/stratum-pool.git
+190 http GET https://github.com/amrmons/stratum-pool.git
+191 http 304 https://registry.npmjs.org/redis
+192 silly registry.get cb [ 304,
+192 silly registry.get   { date: 'Sat, 03 Aug 2024 10:00:51 GMT',
+192 silly registry.get     connection: 'keep-alive',
+192 silly registry.get     'cf-ray': '8ad5768afaa88fdd-FRA',
+192 silly registry.get     'cf-cache-status': 'HIT',
+192 silly registry.get     'access-control-allow-origin': '*',
+192 silly registry.get     age: '13',
+192 silly registry.get     'cache-control': 'public, max-age=300',
+192 silly registry.get     etag: '"78299680990cc12f4100306a2a76d469"',
+192 silly registry.get     'last-modified': 'Mon, 29 Jul 2024 14:34:21 GMT',
+192 silly registry.get     vary: 'Accept-Encoding',
+192 silly registry.get     server: 'cloudflare' } ]
+193 verbose etag https://registry.npmjs.org/redis from cache
+194 http 304 https://registry.npmjs.org/extend
+195 silly registry.get cb [ 304,
+195 silly registry.get   { date: 'Sat, 03 Aug 2024 10:00:51 GMT',
+195 silly registry.get     connection: 'keep-alive',
+195 silly registry.get     'cf-ray': '8ad5768afbd239e0-FRA',
+195 silly registry.get     'cf-cache-status': 'HIT',
+195 silly registry.get     'access-control-allow-origin': '*',
+195 silly registry.get     age: '9',
+195 silly registry.get     'cache-control': 'public, max-age=300',
+195 silly registry.get     etag: '"6dd83c5320f4a7d5404c451b6ee310b3"',
+195 silly registry.get     'last-modified': 'Wed, 12 Jul 2023 19:13:05 GMT',
+195 silly registry.get     vary: 'Accept-Encoding',
+195 silly registry.get     server: 'cloudflare' } ]
+196 verbose etag https://registry.npmjs.org/extend from cache
+197 verbose cache add [ 'redis', '2.6.4\'' ]
+198 verbose cache add name="redis" spec="2.6.4'" args=["redis","2.6.4'"]
+199 verbose parsed url { protocol: null,
+199 verbose parsed url   slashes: null,
+199 verbose parsed url   auth: null,
+199 verbose parsed url   host: null,
+199 verbose parsed url   port: null,
+199 verbose parsed url   hostname: null,
+199 verbose parsed url   hash: null,
+199 verbose parsed url   search: null,
+199 verbose parsed url   query: null,
+199 verbose parsed url   pathname: '2.6.4%27',
+199 verbose parsed url   path: '2.6.4%27',
+199 verbose parsed url   href: '2.6.4%27' }
+200 verbose addNamed [ 'redis', '2.6.4\'' ]
+201 verbose addNamed [ null, null ]
+202 silly lockFile 90ca198c-redis-2-6-4 redis@2.6.4'
+203 verbose lock redis@2.6.4' /root/.npm/90ca198c-redis-2-6-4.lock
+204 info addNameTag [ 'redis', '2.6.4\'' ]
+205 verbose registry.get https://registry.npmjs.org/redis not expired, no request
+206 silly lockFile 90ca198c-redis-2-6-4 redis@2.6.4'
+207 silly lockFile 90ca198c-redis-2-6-4 redis@2.6.4'
+208 http 304 https://registry.npmjs.org/node-json-minify
+209 silly registry.get cb [ 304,
+209 silly registry.get   { date: 'Sat, 03 Aug 2024 10:00:51 GMT',
+209 silly registry.get     connection: 'keep-alive',
+209 silly registry.get     'cf-ray': '8ad576892809367d-FRA',
+209 silly registry.get     'cf-cache-status': 'REVALIDATED',
+209 silly registry.get     'access-control-allow-origin': '*',
+209 silly registry.get     'cache-control': 'public, max-age=300',
+209 silly registry.get     etag: '"794a4a67712f569216f682c9683b8473"',
+209 silly registry.get     'last-modified': 'Tue, 21 Jun 2022 16:08:57 GMT',
+209 silly registry.get     vary: 'Accept-Encoding',
+209 silly registry.get     server: 'cloudflare' } ]
+210 verbose etag https://registry.npmjs.org/node-json-minify from cache
+211 http 304 https://registry.npmjs.org/nonce
+212 silly registry.get cb [ 304,
+212 silly registry.get   { date: 'Sat, 03 Aug 2024 10:00:52 GMT',
+212 silly registry.get     connection: 'keep-alive',
+212 silly registry.get     'cf-ray': '8ad5768a6961697b-FRA',
+212 silly registry.get     'cf-cache-status': 'REVALIDATED',
+212 silly registry.get     'access-control-allow-origin': '*',
+212 silly registry.get     'cache-control': 'public, max-age=300',
+212 silly registry.get     etag: '"693c13e87a25bd82a4c927d6ebeedc6e"',
+212 silly registry.get     'last-modified': 'Wed, 22 Jun 2022 04:56:02 GMT',
+212 silly registry.get     vary: 'Accept-Encoding',
+212 silly registry.get     server: 'cloudflare' } ]
+213 verbose etag https://registry.npmjs.org/nonce from cache
+214 http 304 https://registry.npmjs.org/bignum
+215 silly registry.get cb [ 304,
+215 silly registry.get   { date: 'Sat, 03 Aug 2024 10:00:52 GMT',
+215 silly registry.get     connection: 'keep-alive',
+215 silly registry.get     'cf-ray': '8ad5768af92b2c37-FRA',
+215 silly registry.get     'cf-cache-status': 'REVALIDATED',
+215 silly registry.get     'access-control-allow-origin': '*',
+215 silly registry.get     'cache-control': 'public, max-age=300',
+215 silly registry.get     etag: '"faa19d87edd13ac7bc1fec902cb6805e"',
+215 silly registry.get     'last-modified': 'Mon, 15 May 2023 07:51:27 GMT',
+215 silly registry.get     vary: 'Accept-Encoding',
+215 silly registry.get     server: 'cloudflare' } ]
+216 verbose etag https://registry.npmjs.org/bignum from cache
+217 http 200 https://github.com/amrmons/stratum-pool.git
+218 verbose tar unpack /tmp/npm-183254-7cKOqYki/github.com/amrmons/stratum-pool.git
+219 silly lockFile 4f0265cd--amrmons-stratum-pool-git-unpack tar:///tmp/npm-183254-7cKOqYki/github.com/amrmons/stratum-pool.git-unpack
+220 verbose lock tar:///tmp/npm-183254-7cKOqYki/github.com/amrmons/stratum-pool.git-unpack /root/.npm/4f0265cd--amrmons-stratum-pool-git-unpack.lock
+221 silly lockFile 571ec036-hub-com-amrmons-stratum-pool-git tar:///tmp/npm-183254-7cKOqYki/github.com/amrmons/stratum-pool.git
+222 verbose lock tar:///tmp/npm-183254-7cKOqYki/github.com/amrmons/stratum-pool.git /root/.npm/571ec036-hub-com-amrmons-stratum-pool-git.lock
+223 silly gunzTarPerm modes [ '755', '644' ]
+224 error not a package /tmp/npm-183254-7cKOqYki/github.com/amrmons/stratum-pool.git
+225 silly lockFile 4f0265cd--amrmons-stratum-pool-git-unpack tar:///tmp/npm-183254-7cKOqYki/github.com/amrmons/stratum-pool.git-unpack
+226 silly lockFile 4f0265cd--amrmons-stratum-pool-git-unpack tar:///tmp/npm-183254-7cKOqYki/github.com/amrmons/stratum-pool.git-unpack
+227 silly lockFile 571ec036-hub-com-amrmons-stratum-pool-git tar:///tmp/npm-183254-7cKOqYki/github.com/amrmons/stratum-pool.git
+228 silly lockFile 571ec036-hub-com-amrmons-stratum-pool-git tar:///tmp/npm-183254-7cKOqYki/github.com/amrmons/stratum-pool.git
+229 silly lockFile 38c87f13-hub-com-amrmons-stratum-pool-git https://github.com/amrmons/stratum-pool.git
+230 silly lockFile 38c87f13-hub-com-amrmons-stratum-pool-git https://github.com/amrmons/stratum-pool.git
+231 info outdated updating [ [ '/root/pool', 'dateformat', undefined, '5.0.3', '5.0.3', '*' ],
+231 info outdated   [ '/root/pool',
+231 info outdated     'express',
+231 info outdated     undefined,
+231 info outdated     '5.0.0-beta.3',
+231 info outdated     '4.19.2',
+231 info outdated     '*' ],
+231 info outdated   [ '/root/pool', 'async', undefined, '3.2.5', '3.2.5', '*' ],
+231 info outdated   [ '/root/pool',
+231 info outdated     'body-parser',
+231 info outdated     undefined,
+231 info outdated     '2.0.0-beta.2',
+231 info outdated     '1.20.2',
+231 info outdated     '*' ],
+231 info outdated   [ '/root/pool', 'colors', undefined, '1.4.0', '1.4.0', '*' ],
+231 info outdated   [ '/root/pool', 'dot', undefined, '2.0.0-beta.1', '1.1.3', '*' ],
+231 info outdated   [ '/root/pool', 'compression', undefined, '1.7.4', '1.7.4', '*' ],
+231 info outdated   [ '/root/pool', 'mysql', undefined, '2.18.1', '2.18.1', '*' ],
+231 info outdated   [ '/root/pool', 'node-watch', undefined, '0.7.4', '0.7.4', '*' ],
+231 info outdated   [ '/root/pool', 'request', undefined, '2.88.2', '2.88.2', '*' ],
+231 info outdated   [ '/root/pool', 'extend', undefined, '3.0.2', '3.0.2', '*' ],
+231 info outdated   [ '/root/pool',
+231 info outdated     'node-json-minify',
+231 info outdated     undefined,
+231 info outdated     '3.0.0',
+231 info outdated     '3.0.0',
+231 info outdated     '*' ],
+231 info outdated   [ '/root/pool', 'nonce', undefined, '1.0.4', '1.0.4', '*' ],
+231 info outdated   [ '/root/pool', 'bignum', undefined, '0.12.5', '0.13.1', '0.12.5' ] ]
+232 error notarget No compatible version found: redis@'2.6.4''
+232 error notarget Valid install targets:
+232 error notarget ["0.0.8","0.2.3","0.0.1","0.0.2","0.0.4","0.0.7","0.5.0","0.4.2","0.4.1","0.4.0","0.3.9","0.3.7","0.3.6","0.3.5","0.3.4","0.3.3","0.3.2","0.3.1","0.3.0","0.0.3","0.2.6","0.2.4","0.2.2","0.2.1","0.2.0","0.1.2","0.1.1","0.1.0","0.5.1","0.5.2","0.5.3","0.5.4","0.5.5","0.5.6","0.5.7","0.5.8","0.5.9","0.5.10","0.5.11","0.6.0","0.6.1","0.6.2","0.6.3","0.6.4","0.6.5","0.6.6","0.6.7","0.7.0","0.7.1","0.7.2","0.7.3","0.8.0","0.8.1","0.8.2","0.8.3","0.8.4","0.8.5","0.8.6","0.9.0","0.9.1","0.9.2","0.10.0","0.10.1","0.10.2","0.10.3","0.11.0","0.12.0","0.12.1","1.0.0","2.0.0","2.0.1","2.1.0","2.2.0","2.2.1","2.2.2","2.2.3","2.2.4","2.2.5","2.3.0","2.3.1","2.4.0","2.4.1","2.4.2","2.5.0-1","2.5.0","2.5.1","2.5.2","2.5.3","2.6.0-0","2.6.0-1","2.6.0-2","2.6.0","2.6.1","2.6.2","2.6.3","2.6.4","2.6.5","2.7.0","2.7.1","2.8.0","3.0.0","3.0.1","3.0.2","3.1.0","3.1.1","3.1.2","4.0.0-next.0","4.0.0-next.1","4.0.0-next.2","4.0.0-next.3","4.0.0-next.4","4.0.0-next.5","4.0.0-next.6","4.0.0-next.7","4.0.0-rc.0","4.0.0-rc.1","4.0.0-rc.2","4.0.0-rc.3","4.0.0-rc.4","4.0.0","4.0.1","4.0.2","4.0.3","4.0.4","4.0.5","4.0.6","4.1.0","4.1.1","4.2.0","4.3.0","4.3.1","4.4.0","4.5.0","4.5.1","4.6.0","4.6.1","4.6.2","4.6.3","4.6.4","4.6.5","4.6.6","4.6.7","4.6.8","4.6.9","4.6.10","5.0.0-next.1","5.0.0-next.2","5.0.0-next.3","5.0.0-next.4","4.6.11","4.6.12","4.6.13","4.6.14","4.6.15","4.7.0"]
+232 error notarget
+232 error notarget This is most likely not a problem with npm itself.
+232 error notarget In most cases you or one of your dependencies are requesting
+232 error notarget a package version that doesn't exist.
+233 error System Linux 5.15.0-1063-oracle
+234 error command "/root/.nvm/v0.10.38/bin/node" "/root/.nvm/v0.10.38/bin/npm" "update"
+235 error cwd /root/pool
+236 error node -v v0.10.38
+237 error npm -v 1.4.28
+238 error code ETARGET
+239 verbose exit [ 1, true ]
