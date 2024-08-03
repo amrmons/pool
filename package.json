@@ -12,9 +12,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/altpooler/node-open-mining-portal-yescrypt",
+    "homepage": "https://github.com/amrmons/pool",
     "bugs": {
-        "url": "https://github.com/altpooler/node-open-mining-portal-yescrypt/issues"
+        "url": "https://github.com/amrmons/pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
