@@ -28,15 +28,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/altpooler/node-open-mining-portal-yescrypt.git"
+        "url": "https://github.com/amrmons/pool.git"
     },
     "dependencies": {
         "stratum-pool": "https://github.com/amrmons/stratum-pool.git",
-        "dateformat": "*",
+        "dateformat": "1.0.12",
         "node-json-minify": "*",
         "redis": "2.6.4",
         "mysql": "*",
-        "async": "*",
+        "async": "2.5.0",
         "express": "*",
         "body-parser": "*",
         "compression": "*",
